@@ -87,6 +87,7 @@ ul {
 }
 
 body {
+	margin: 0;
 	background: #e5e5e5;
 	font-family: RobotoRegular;
 	color: #333;
@@ -130,4 +131,93 @@ ol>li:hover:before {
 button {
 	cursor: pointer;
 	border: none;
+	outline: none;
 }
+
+.header {
+	background: #8D6E63;
+	padding: 13px 0;
+	box-shadow: 0 3px 8px rgba(0, 0, 0, .35);
+	position: fixed;
+	width: 100%;
+	top: 0;
+	left: 0;
+}
+
+.wrap {
+	width: 100%;
+	max-width: 1000px;
+	padding: 0 12px;
+	margin: 0 auto;
+}
+
+.wrap:after {
+	content: "";
+	display: table;
+	clear: both;
+}
+
+.main {
+	padding: 130px 0 0;
+}
+
+.page-area {
+	background: #fff;
+	height: 1000px;
+	background: #f8f8f8;
+	padding: 90px 60px;
+	box-shadow: 0 0 2px rgba(0,0,0,.12),0 1px 4px rgba(0,0,0,.24);
+}
+
+.logo {
+	display: table;
+	font-family: RobotoBold;
+}
+
+.logo a {
+	display: table-cell;
+	vertical-align: middle;
+}
+
+.logo__img {
+	width:64px;
+	display: inline-block;
+}
+
+.logo__img img {
+	width: 100%;
+}
+
+.logo__name {
+	color: #fff;
+	text-transform: uppercase;
+	font-size: 26px;
+	padding: 0 0 0 10px;
+}
+
+.footer {
+	width: 100%;
+	font-size: 14px;
+	line-height: 20px;
+	padding: 30px 0;
+}
+
+.footer a {
+	color: #999;
+}
+
+.footer a:hover {
+	color: #7E5C62;
+}
+
+.contacts a {
+	display: block;
+}
+
+.contacts {
+	float: left;
+}
+
+.copyright {
+	float: right;
+	text-align: right;
