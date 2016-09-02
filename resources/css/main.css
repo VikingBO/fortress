@@ -1,0 +1,133 @@
+/* font-family: "RobotoRegular"; */
+
+@font-face {
+	font-family: "RobotoRegular";
+	src: url("../fonts/RobotoRegular/RobotoRegular.eot");
+	src: url("../fonts/RobotoRegular/RobotoRegular.eot?#iefix")format("embedded-opentype"), url("../fonts/RobotoRegular/RobotoRegular.woff") format("woff"), url("../fonts/RobotoRegular/RobotoRegular.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+
+/* font-family: "RobotoLight"; */
+
+@font-face {
+	font-family: "RobotoLight";
+	src: url("../fonts/RobotoLight/RobotoLight.eot");
+	src: url("../fonts/RobotoLight/RobotoLight.eot?#iefix")format("embedded-opentype"), url("../fonts/RobotoLight/RobotoLight.woff") format("woff"), url("../fonts/RobotoLight/RobotoLight.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+
+/* font-family: "RobotoMedium"; */
+
+@font-face {
+	font-family: "RobotoMedium";
+	src: url("../fonts/RobotoMedium/RobotoMedium.eot");
+	src: url("../fonts/RobotoMedium/RobotoMedium.eot?#iefix")format("embedded-opentype"), url("../fonts/RobotoMedium/RobotoMedium.woff") format("woff"), url("../fonts/RobotoMedium/RobotoMedium.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+
+/* font-family: "RobotoBold"; */
+
+@font-face {
+	font-family: "RobotoBold";
+	src: url("../fonts/RobotoBold/RobotoBold.eot");
+	src: url("../fonts/RobotoBold/RobotoBold.eot?#iefix")format("embedded-opentype"), url("../fonts/RobotoBold/RobotoBold.woff") format("woff"), url("../fonts/RobotoBold/RobotoBold.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+
+/* font-family: "PoiretOneNormal"; */
+
+@font-face {
+	font-family: "PoiretOneNormal";
+	src: url("../fonts/PoiretOneNormal/PoiretOneNormal.eot");
+	src: url("../fonts/PoiretOneNormal/PoiretOneNormal.eot?#iefix") format("embedded-opentype"), url("../fonts/PoiretOneNormal/PoiretOneNormal.woff") format("woff"), url("../fonts/PoiretOneNormal/PoiretOneNormal.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal
+}
+
+* {
+	box-sizing: border-box;
+	transition: .5s;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-family: PoiretOneNormal;
+	line-height: 1.2;
+}
+
+h1 {
+	font-size: 36px;
+	font-weight: bold;
+	margin: 0 0 30px;
+}
+
+h2 {
+	font-size: 18px;
+	font-weight: bold;
+}
+
+p {
+	margin: 0 0 15px;
+}
+
+ul {
+	list-style-type: none;
+}
+
+body {
+	background: #e5e5e5;
+	font-family: RobotoRegular;
+	color: #333;
+	font-size: 16px;
+	overflow-x: hidden;
+}
+
+a {
+	color: #3F51B5;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #7E5C62;
+}
+
+ol {
+	counter-reset: li;
+	list-style: none;
+}
+
+ol>li {
+	position: relative;
+	padding: 0 0 0 20px;
+	margin: 0 0 7px;
+}
+
+ol>li:before {
+	content: counter(li);
+	counter-increment: li;
+	position: absolute;
+	left: 0;
+	top: 0;
+	color: #3F51B5;
+}
+
+ol>li:hover:before {
+	color: #7E5C62;
+}
+
+button {
+	cursor: pointer;
+	border: none;
+}
