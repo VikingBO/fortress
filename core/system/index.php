@@ -1,6 +1,8 @@
 <?php
-/**
- * Created by testrepo.
- * Date: 01.09.2016
- * Time: 11:56
- */
+session_start();
+
+include_once ('configs/dbconnect.php');
+$CONNECT = mysqli_connect(HOST,USER, PASS, DB);
+
+include_once ('core/functions/functions.php');
+include_once ('core/modules/notification.php');

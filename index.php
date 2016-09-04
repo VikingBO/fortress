@@ -1,5 +1,9 @@
 <?php
 
+
+//core
 require ($_SERVER['DOCUMENT_ROOT'].'/core/system/index.php');
 
-include ('tmp/custom.php');
+
+//template
+include ('templates/fortress/index.php');

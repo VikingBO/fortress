@@ -5,7 +5,7 @@
       <paths name="Fortress">
         <serverdata>
           <mappings>
-            <mapping deploy="/domains/fortress.novavovikov.ru" local="$PROJECT_DIR$" web="/" />
+            <mapping deploy="/domains/test.novavovikov.ru" local="$PROJECT_DIR$" web="/" />
           </mappings>
         </serverdata>
       </paths>

@@ -101,7 +101,7 @@ a {
 }
 
 a:hover {
-	color: #7E5C62;
+	color: #6B7F59;
 }
 
 ol {
@@ -125,13 +125,32 @@ ol>li:before {
 }
 
 ol>li:hover:before {
-	color: #7E5C62;
+	color: #6B7F59;
 }
 
 button {
 	cursor: pointer;
 	border: none;
 	outline: none;
+	background: transparent;
+}
+
+input {
+	outline: none;
+	border: none;
+	background: transparent;
+	font-family: RobotoRegular;
+}
+
+input[type="text"], input[type="password"], input[type="email"] {
+	border-bottom: 1px solid #8D6E63;
+	padding: 5px 10px;
+	width: 100%;
+	margin: 0 0 15px;
+}
+
+input[type="text"]:focus, input[type="password"]:focus, input[type="email"]:focus {
+	border-color: #EF5350;
 }
 
 .header {
@@ -172,11 +191,16 @@ button {
 .logo {
 	display: table;
 	font-family: RobotoBold;
+	float: left;
 }
 
 .logo a {
 	display: table-cell;
 	vertical-align: middle;
+}
+
+.logo a:hover {
+	color: #fff;
 }
 
 .logo__img {
@@ -207,7 +231,7 @@ button {
 }
 
 .footer a:hover {
-	color: #7E5C62;
+	color: #6B7F59;
 }
 
 .contacts a {
@@ -221,3 +245,111 @@ button {
 .copyright {
 	float: right;
 	text-align: right;
+}
+
+.auth {
+	float: right;
+}
+
+.auth a {
+	color: #fff;
+	position: relative;
+	display: inline-block;
+	padding: 0 20px;
+}
+
+.auth a:before {
+	content: '';
+	position: absolute;
+	display: block;
+	width: 2px;
+	height: 100%;
+	background: radial-gradient(#fff, #8D6E63);
+	top: 0;
+	right: 0;
+}
+
+.auth a:last-child {
+	padding-right: 0;
+}
+
+.auth a:last-child:before {
+	display: none;
+}
+
+
+.popup {
+	visibility: hidden;
+	pointer-events: none;
+	position: fixed;
+	background: rgba(0, 0, 0, .5);
+	top: -100%;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	width: 100%;
+	height: 100%;
+	transition: 0s ;
+	display: table;
+}
+
+.popup:target {
+	visibility: visible;
+	pointer-events: auto;
+	top: 0;
+}
+
+.popup form {
+	transform: scale(0);
+}
+
+.popup:target form {
+	transform: scale(1);
+}
+
+.popup__wrap{
+	display: table-cell;
+	vertical-align: middle;
+	text-align: center;
+}
+
+.btn {
+	display: inline-block;
+	padding: 10px 30px;
+	font-family: RobotoBold;
+	color: #fff;
+	text-transform: uppercase;
+	background: #8D6E63;
+}
+
+.btn:hover {
+	background: #A1887F;
+}
+
+.close {
+	width: 20px;
+	height: 20px;
+	display: inline-block;
+	position: absolute;
+	top: 20px;
+	right: 20px;
+}
+
+.close__line {
+	stroke: #8D6E63;
+}
+
+.close:hover .close__line {
+	stroke: #EF5350;
+}
+
+.form {
+	background: #fff;
+	padding: 40px;
+	display: inline-block;
+	position: relative;
+}
+
+
+
+
