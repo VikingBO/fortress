@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5484ffcd-7b56-4530-b4ff-7b5d7026f247" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/system/configs/.gitignore" afterPath="$PROJECT_DIR$/core/system/configs/.gitignore" />
     </list>
     <ignored path="fortress.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -450,13 +448,20 @@
       <workItem from="1472898355531" duration="1015000" />
       <workItem from="1472926601951" duration="98000" />
       <workItem from="1472930691096" duration="25616000" />
-      <workItem from="1473011186700" duration="348000" />
+      <workItem from="1473011186700" duration="362000" />
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add gitignore files">
+      <created>1473011548407</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1473011548407</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32709000" />
+    <option name="totallyTimeSpent" value="32723000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
@@ -495,6 +500,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add gitignore files" />
+    <option name="LAST_COMMIT_MESSAGE" value="add gitignore files" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
