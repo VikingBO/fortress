@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="5484ffcd-7b56-4530-b4ff-7b5d7026f247" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/system/configs/.gitignore" afterPath="$PROJECT_DIR$/core/system/configs/.gitignore" />
     </list>
     <ignored path="fortress.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -374,7 +373,7 @@
       <workItem from="1472898355531" duration="1015000" />
       <workItem from="1472926601951" duration="98000" />
       <workItem from="1472930691096" duration="25616000" />
-      <workItem from="1473011186700" duration="514000" />
+      <workItem from="1473011186700" duration="532000" />
     </task>
     <task id="LOCAL-00002" summary="add gitignore files">
       <created>1473011548407</created>
@@ -390,11 +389,18 @@
       <option name="project" value="LOCAL" />
       <updated>1473011553707</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add gitignore files">
+      <created>1473011717621</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1473011717621</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32875000" />
+    <option name="totallyTimeSpent" value="32893000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
