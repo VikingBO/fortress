@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5484ffcd-7b56-4530-b4ff-7b5d7026f247" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/modules/activate.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/register.php" afterPath="$PROJECT_DIR$/core/modules/register.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/fortress/common/header.php" afterPath="$PROJECT_DIR$/templates/fortress/common/header.php" />
     </list>
     <ignored path="fortress.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -422,7 +419,7 @@
       <workItem from="1473011186700" duration="362000" />
       <workItem from="1473020767138" duration="3690000" />
       <workItem from="1473029974493" duration="1397000" />
-      <workItem from="1473096569065" duration="8366000" />
+      <workItem from="1473096569065" duration="8533000" />
     </task>
     <task id="LOCAL-00002" summary="add gitignore files">
       <created>1473011548407</created>
@@ -431,11 +428,18 @@
       <option name="project" value="LOCAL" />
       <updated>1473011548407</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="the email validatation was added">
+      <created>1473116878985</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1473116878985</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46176000" />
+    <option name="totallyTimeSpent" value="46343000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
@@ -477,7 +481,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add gitignore files" />
-    <option name="LAST_COMMIT_MESSAGE" value="add gitignore files" />
+    <MESSAGE value="the email validatation was added" />
+    <option name="LAST_COMMIT_MESSAGE" value="the email validatation was added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
