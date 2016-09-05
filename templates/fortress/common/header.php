@@ -24,7 +24,7 @@
                        <input type="email" placeholder="Ваш e-mail" name="email">
                     </div>
                     <div class="form__password">
-                        <input type="password" placeholder="Пароль" name="password">
+                        <input type="password" placeholder="Пароль" name="password" maxlength="20">
                     </div>
                     <button type="submit" class="btn">Регистрация</button>
                 </form>
