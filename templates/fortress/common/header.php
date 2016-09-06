@@ -5,8 +5,8 @@
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="icon" type="image/png" href="resources/img/favicon.png" />
-    <link rel="stylesheet" href="resources/css/main.css">
+    <link rel="icon" type="image/png" href="templates/fortress/img/favicon.png" />
+    <link rel="stylesheet" href="templates/fortress/css/main.css">
     <title>Fortress CMS</title>
 </head>
 <body>
@@ -33,7 +33,7 @@
         <div class="wrap">
             <div class="logo">
                 <a href="/" class="logo__img">
-                    <img src="resources/img/logo.png" alt="logo">
+                    <img src="templates/fortress/img/logo.png" alt="logo">
                 </a>
                 <a href="/" class="logo__name">
                     Fortress
