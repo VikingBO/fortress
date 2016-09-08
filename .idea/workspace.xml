@@ -1,37 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/core/modules/pages.php" line="0" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="5484ffcd-7b56-4530-b4ff-7b5d7026f247" name="Default" comment="Page registration in DB">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/modules/news.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/modules/url.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fortress/css/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fortress/js/main.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/css/main.css" afterPath="" />
+    <list default="true" id="5484ffcd-7b56-4530-b4ff-7b5d7026f247" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test.php" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/tmpCheckDiff.eqFTPtmp" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/fonts/PoiretOneNormal/PoiretOneNormal.eot" afterPath="$PROJECT_DIR$/templates/fortress/fonts/PoiretOneNormal/PoiretOneNormal.eot" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/fonts/PoiretOneNormal/PoiretOneNormal.ttf" afterPath="$PROJECT_DIR$/templates/fortress/fonts/PoiretOneNormal/PoiretOneNormal.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/fonts/PoiretOneNormal/PoiretOneNormal.woff" afterPath="$PROJECT_DIR$/templates/fortress/fonts/PoiretOneNormal/PoiretOneNormal.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/fonts/RobotoBold/RobotoBold.eot" afterPath="$PROJECT_DIR$/templates/fortress/fonts/RobotoBold/RobotoBold.eot" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/fonts/RobotoBold/RobotoBold.ttf" afterPath="$PROJECT_DIR$/templates/fortress/fonts/RobotoBold/RobotoBold.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/fonts/RobotoBold/RobotoBold.woff" afterPath="$PROJECT_DIR$/templates/fortress/fonts/RobotoBold/RobotoBold.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/fonts/RobotoLight/RobotoLight.eot" afterPath="$PROJECT_DIR$/templates/fortress/fonts/RobotoLight/RobotoLight.eot" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/fonts/RobotoLight/RobotoLight.ttf" afterPath="$PROJECT_DIR$/templates/fortress/fonts/RobotoLight/RobotoLight.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/fonts/RobotoLight/RobotoLight.woff" afterPath="$PROJECT_DIR$/templates/fortress/fonts/RobotoLight/RobotoLight.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/fonts/RobotoMedium/RobotoMedium.eot" afterPath="$PROJECT_DIR$/templates/fortress/fonts/RobotoMedium/RobotoMedium.eot" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/fonts/RobotoMedium/RobotoMedium.ttf" afterPath="$PROJECT_DIR$/templates/fortress/fonts/RobotoMedium/RobotoMedium.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/fonts/RobotoMedium/RobotoMedium.woff" afterPath="$PROJECT_DIR$/templates/fortress/fonts/RobotoMedium/RobotoMedium.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/fonts/RobotoRegular/RobotoRegular.eot" afterPath="$PROJECT_DIR$/templates/fortress/fonts/RobotoRegular/RobotoRegular.eot" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/fonts/RobotoRegular/RobotoRegular.ttf" afterPath="$PROJECT_DIR$/templates/fortress/fonts/RobotoRegular/RobotoRegular.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/fonts/RobotoRegular/RobotoRegular.woff" afterPath="$PROJECT_DIR$/templates/fortress/fonts/RobotoRegular/RobotoRegular.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/img/favicon.png" afterPath="$PROJECT_DIR$/templates/fortress/img/favicon.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/img/logo.png" afterPath="$PROJECT_DIR$/templates/fortress/img/logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/js/main.js" afterPath="$PROJECT_DIR$/.htaccess" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/core/.htaccess" afterPath="$PROJECT_DIR$/core/modules/pages.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/register.php" afterPath="$PROJECT_DIR$/core/modules/register.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/system/configs/dbconnect.php" afterPath="$PROJECT_DIR$/core/system/configs/dbconnect.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/activate.php" afterPath="$PROJECT_DIR$/core/modules/activate.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/notification.php" afterPath="$PROJECT_DIR$/core/modules/notification.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/modules/url.php" afterPath="$PROJECT_DIR$/core/modules/url.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/system/index.php" afterPath="$PROJECT_DIR$/core/system/index.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/fortress/common/header.php" afterPath="$PROJECT_DIR$/templates/fortress/common/header.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/fortress/index.php" afterPath="$PROJECT_DIR$/templates/fortress/index.php" />
     </list>
     <ignored path="fortress.iws" />
@@ -71,34 +53,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.php">
+      <file leaf-file-name="test.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+            <state relative-caret-position="85">
+              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="url.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/core/modules/url.php">
+      <file leaf-file-name="pages.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/core/modules/pages.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="96" selection-start-line="19" selection-start-column="96" selection-end-line="19" selection-end-column="96" />
+            <state relative-caret-position="306">
+              <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
               <folding>
-                <marker date="1473285940537" expanded="true" signature="524:571" ph="SELECT `url`... pages" />
+                <marker date="1473371583714" expanded="true" signature="536:589" ph="SELECT `url`... pages" />
+                <marker date="1473371583714" expanded="true" signature="727:802" ph="INSERT INTO `pages`... " />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/fortress/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -106,6 +79,11 @@
     </leaf>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Nova Vovikov &lt;novavovikov@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="PUSH_TAGS">
       <GitPushTagMode />
@@ -123,19 +101,24 @@
         <option value="$PROJECT_DIR$/templates/fortress/frontpage.php" />
         <option value="$PROJECT_DIR$/templates/fortress/common/footer.php" />
         <option value="$PROJECT_DIR$/core/functions/functions.php" />
-        <option value="$PROJECT_DIR$/core/modules/notification.php" />
         <option value="$PROJECT_DIR$/core/system/configs/.gitignore" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/core/system/configs/dbconnect.php" />
         <option value="$PROJECT_DIR$/templates/fortress/common/header.php" />
         <option value="$PROJECT_DIR$/templates/fortress/css/main.css" />
-        <option value="$PROJECT_DIR$/core/system/index.php" />
         <option value="$PROJECT_DIR$/core/modules/news.php" />
-        <option value="$PROJECT_DIR$/.htaccess" />
-        <option value="$PROJECT_DIR$/templates/fortress/index.php" />
         <option value="$PROJECT_DIR$/core/modules/register.php" />
-        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/core/.htaccess" />
+        <option value="$PROJECT_DIR$/core/system/.htaccess" />
+        <option value="$PROJECT_DIR$/.htaccess" />
         <option value="$PROJECT_DIR$/core/modules/url.php" />
+        <option value="$PROJECT_DIR$/core/modules/activate.php" />
+        <option value="$PROJECT_DIR$/core/modules/notification.php" />
+        <option value="$PROJECT_DIR$/templates/fortress/index.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/core/system/index.php" />
+        <option value="$PROJECT_DIR$/test.php" />
+        <option value="$PROJECT_DIR$/core/modules/pages.php" />
       </list>
     </option>
   </component>
@@ -215,7 +198,7 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1456" />
+    <option name="width" value="1452" />
     <option name="height" value="876" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -303,7 +286,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -332,7 +314,65 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fortress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fortress" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fortress" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fortress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fortress" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fortress" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="common" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fortress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fortress" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="core" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="system" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -354,8 +394,23 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fortress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fortress" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="core" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -376,11 +431,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Projects\fortress\core\system" />
       <recent name="C:\Projects\fortress\templates\fortress" />
       <recent name="C:\Projects\fortress\templates" />
       <recent name="C:\Projects\fortress\core\system\configs" />
       <recent name="C:\Projects\fortress\tmp\fortress" />
-      <recent name="C:\Projects\fortress\tmp" />
     </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.notification.php">
@@ -491,7 +546,8 @@
       <workItem from="1473011186700" duration="362000" />
       <workItem from="1473116940580" duration="753000" />
       <workItem from="1473117792484" duration="595000" />
-      <workItem from="1473277328764" duration="9276000" />
+      <workItem from="1473277328764" duration="9564000" />
+      <workItem from="1473357405225" duration="10690000" />
     </task>
     <task id="LOCAL-00002" summary="add gitignore files">
       <created>1473011548407</created>
@@ -500,41 +556,51 @@
       <option name="project" value="LOCAL" />
       <updated>1473011548407</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="test brackets for html&#10;">
+      <created>1473288542218</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1473288542218</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43347000" />
+    <option name="totallyTimeSpent" value="54325000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
+    <frame x="-8" y="-8" width="1452" height="876" extended-state="0" />
     <editor active="true" />
     <layout>
+      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24791086" sideWeight="0.5396518" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24791086" sideWeight="0.46034816" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32898173" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29503918" sideWeight="0.50416666" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32767624" sideWeight="0.49722221" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="REST Client" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33289817" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23472223" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32506528" sideWeight="0.49722221" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32898173" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32898173" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32898173" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24791667" sideWeight="0.5330739" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24791667" sideWeight="0.46692607" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32898173" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23472223" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32898173" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29503918" sideWeight="0.49583334" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32898173" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Command Line Tools Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32898173" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="REST Client" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33289817" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26180556" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32898173" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="UpdateCopyrightCheckinHandler">
+    <option name="UPDATE_COPYRIGHT" value="true" />
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -550,7 +616,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add gitignore files" />
     <MESSAGE value="Page registration in DB" />
-    <option name="LAST_COMMIT_MESSAGE" value="Page registration in DB" />
+    <MESSAGE value="test brackets for html&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="test brackets for html&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -559,14 +626,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/templates/fortress/common/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/core/modules/register.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -823,19 +882,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/fortress/frontpage.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/core/system/configs/dbconnect.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="40" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -847,34 +897,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/core/modules/URI.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/core/modules/URI.php" />
     <entry file="file://$PROJECT_DIR$/core/modules/news.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/system/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.htaccess">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
           <folding />
         </state>
       </provider>
@@ -887,18 +914,53 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/core/modules/notification.php">
+    <entry file="file://$PROJECT_DIR$/tmpCheckDiff.eqFTPtmp" />
+    <entry file="file://$PROJECT_DIR$/core/system/.htaccess">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="5" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/modules/url.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="19" column="2" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
+          <folding>
+            <marker date="1473368018990" expanded="true" signature="587:649" ph="SELECT `url`... pages" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/modules/notification.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="32" selection-start-line="1" selection-start-column="32" selection-end-line="1" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/modules/activate.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/core/modules/register.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        <state relative-caret-position="357">
+          <caret line="21" column="1" selection-start-line="9" selection-start-column="0" selection-end-line="21" selection-end-column="1" />
           <folding>
             <marker date="1473284601624" expanded="true" signature="469:528" ph="SELECT `emai... users" />
             <marker date="1473284601624" expanded="true" signature="707:780" ph="INSERT INTO `users`... " />
@@ -906,18 +968,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
+    <entry file="file://$PROJECT_DIR$/templates/fortress/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        <state relative-caret-position="17">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="57" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/fortress/index.php">
+    <entry file="file://$PROJECT_DIR$/templates/fortress/frontpage.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="10" />
           <folding />
         </state>
       </provider>
@@ -930,12 +992,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/core/modules/url.php">
+    <entry file="file://$PROJECT_DIR$/core/system/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="96" selection-start-line="19" selection-start-column="96" selection-end-line="19" selection-end-column="96" />
+        <state relative-caret-position="0">
+          <caret line="0" column="5" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/modules/pages.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
           <folding>
-            <marker date="1473285940537" expanded="true" signature="524:571" ph="SELECT `url`... pages" />
+            <marker date="1473371583714" expanded="true" signature="536:589" ph="SELECT `url`... pages" />
+            <marker date="1473371583714" expanded="true" signature="727:802" ph="INSERT INTO `pages`... " />
           </folding>
         </state>
       </provider>
@@ -957,6 +1044,6 @@
     </states>
   </component>
   <component name="webServersAuthStorage">
-    <data>AAAAsPVKQuY8xxbtB8FlzgddCQG347+6v9mxxfvzHQ/y/0t1KlMOV+VCAjnaFtX5seGg1z0mApDTohidzkvsNoq+137n+cTbKlDtXMuU/q9RhfQ387pjE5vI+6klONMn6yHaibwSgVKxn9ccbCSbwIGH1pQA9g5fwvLYPmewiJd2EMEN8Zd9sVYzTQSa4Fx3LLQnSUPxdAxBXJ/nkVR1prAHUvZpgl5DX4w7v794pj8Mi9HOdK2pULTmGjDbhJCpduhf0A==</data>
+    <data>AAAAsH0UnjMkElzmy6v5dwRVi0AcSRXi+gTrhiQeRsphQC5QgKVx1CQSDtwy4qM8hupnGdpFTheBA3cuFmJldQq/kE5R5euRlnMY57pP+yW9h2ZRPJ7RedB2E1bpRir2Jx5WPL3496fP3ujqg3+NB4Fri+4gXISC94TdfPmq7nxIFLaXonh7iHbPj90BOyG8w4Rm5gW43SG6Fde0JJlAZqPcTEZdaOzi/HjA1V/Ph3f5k+W1oYrtfZxDEJWBQLeC0KnpRg==</data>
   </component>
 </project>

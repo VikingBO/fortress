@@ -17,6 +17,9 @@ if ($_SERVER['REQUEST_URI'] == '/') {
     }
 }
 
-$url = mysqli_fetch_assoc(mysqli_query($CONNECT, "SELECT `url` FROM `pages` WHERE `url` = '$Page'"));
-if ($url['url']) echo "This is my page";
+//TODO сделать проверку главной страницы и вывод страницы 404
+
+$url = mysqli_fetch_assoc(mysqli_query($CONNECT, "SELECT `url`,`path` FROM `pages` WHERE `url` = '$Page' LIMIT 1"));
+if ($url['url']) include_once($_SERVER['DOCUMENT_ROOT'].$url['path']);
 else {echo 'error';}
+
