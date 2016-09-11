@@ -1,4 +1,6 @@
 <?php
+//TODO Отстилизовать уведомления
+
 function NoticeShow($p1, $p2) {
     if ($p1 == 1) {
         $p1 = 'Ошибка: ';
